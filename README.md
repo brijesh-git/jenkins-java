@@ -1,2 +1,2 @@
-# jenkins-java
-Jenkins Java
+# java-project
+Java Project for Jenkins Course
