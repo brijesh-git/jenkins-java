@@ -5,8 +5,9 @@ pipeline {
 	stages {
 
 		stage('build'){
-
-			sh 'ant -f build -v'
+		 	steps {
+				sh 'ant -f build -v'
+			}
 
 		}
 
