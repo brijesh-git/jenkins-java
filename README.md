@@ -1,2 +1,2 @@
 # jenkins-java
-Jenkins Java
+Jenkins Java test projet.
